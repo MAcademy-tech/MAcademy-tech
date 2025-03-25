@@ -1,4 +1,5 @@
-## Hi there 👋
+## welcome to MAcademy-tech
+## We're excited to embark on this learning journey with you. Whether you're a complete beginner or looking to enhance your skills, our expert instructors and comprehensive courses will empower you to succeed in the dynamic world of web technology. Let's code your future together!"
 
 <!--
 **MAcademy-tech/MAcademy-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
